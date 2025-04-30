@@ -1,4 +1,4 @@
-// Realizado por Nicolas
+// Realizado por Nicolas Cutone
 // Ingresar un numero y mostrar si es divisible por 2
 
 let numero = parseInt(prompt("Ingrese un número: "));

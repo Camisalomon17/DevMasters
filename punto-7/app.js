@@ -1,4 +1,4 @@
-// Realizado por Nicolas 
+// Realizado por Nicolas Cutone
 // Ingresar 3 numeros y mostrar el mayor de ellos
 
 let num1 = parseInt(prompt("Ingrese el primer número:"));
